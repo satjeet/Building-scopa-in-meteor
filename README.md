@@ -5,6 +5,6 @@ Meteor is an amazing framework that makes building complex web applications much
 
 Source files for the Tuts+ course: [Building a Multi-Player Game With Meteor](https://courses.tutsplus.com/courses/build-a-multi-player-game-with-meteor)
 
-**Available on Tuts+ May 28th, 2014**
+**Available on Tuts+ 28 May, 2014**
 
 View the demo game at [scopa.meteor.com](http://scopa.meteor.com)
